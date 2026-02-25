@@ -22,7 +22,7 @@ I’m focusing on:
 I found this onboarding design on Dribbble and challenged myself to replicate it as closely as possible.
 
 📸 Screenshot:
-![App Screenshot](https://github.com/techusman-codes/real_estate_UI/blob/610410dd714736fb976d2afa4afdd3b41a4daa05/Screenshot%20From%202025-10-06%2019-38-48.png)
+![App Screenshot](https://github.com/Ugarba202/Flutter-UI-Screens/blob/fe9bb396dee3baf7afc0029f0ba5cb3b30699751/Screenshot%20From%202026-02-24%2016-44-38.png)
 
 
 ---
