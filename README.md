@@ -1,16 +1,42 @@
-# hexatec_onbaording
+# 🚀 Flutter Onboarding UI – Day 1 (Build in Public)
 
-A new Flutter project.
+This project is part of my **30 Days Flutter UI Challenge**, where I replicate real-world designs from Dribbble to sharpen my mobile engineering skills and build in public.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 The Goal
 
-A few resources to get you started if this is your first Flutter project:
+Learn → Build → Share → Improve
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I’m focusing on:
+- Layout mastery
+- Spacing precision
+- Clean widget architecture
+- Reusable components
+- Production-style structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼 Design Inspiration
+
+I found this onboarding design on Dribbble and challenged myself to replicate it as closely as possible.
+
+📸 Screenshot:
+![App Screenshot](https://github.com/techusman-codes/real_estate_UI/blob/610410dd714736fb976d2afa4afdd3b41a4daa05/Screenshot%20From%202025-10-06%2019-38-48.png)
+
+
+---
+
+## ✨ Features Built
+
+- Splash Screen with timed navigation
+- 4-step onboarding flow
+- PageView with PageController
+- Animated dot indicators
+- Dynamic button states (Back / Next / Get Started)
+- Clean separation of screens and reusable widgets
+- Responsive layout using MediaQuery
+
+---
+
+## 📂 Project Structure
